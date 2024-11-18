@@ -1,7 +1,5 @@
 
 
-Here’s the revised **HRMS Problem Statement** with the **payroll feature removed** while retaining the focus on other critical HR functionalities:
-
 ---
 
 ### **Human Resources Management System (HRMS)**  
